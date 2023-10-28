@@ -1,0 +1,6 @@
+{
+	"appId": "io.sharinushka.facerec",
+	"appName": "Face Recognition",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

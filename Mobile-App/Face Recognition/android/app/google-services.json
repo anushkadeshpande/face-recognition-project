@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "576253162873",
+    "project_id": "face-recognition-29af2",
+    "storage_bucket": "face-recognition-29af2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576253162873:android:45b6ab7a322e94689caba8",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576253162873-hvol37c4s35qjurinhi48i46augn3tv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5_5vWL7vlTKjyDkVvmkZaDVy1oHSQyiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576253162873-hvol37c4s35qjurinhi48i46augn3tv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

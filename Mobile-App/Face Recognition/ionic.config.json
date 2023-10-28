@@ -1,0 +1,7 @@
+{
+  "name": "Face Recognition",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
