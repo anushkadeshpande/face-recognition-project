@@ -1,6 +1,6 @@
 # Face Recognition:
 
-## To run the app:
+## To run the desktop app:
 ```
 cd Desktop-App
 pip install -r requirements.txt
